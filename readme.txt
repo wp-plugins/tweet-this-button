@@ -23,6 +23,10 @@ if(function_exists("tweet_button")) { echo tweet_button('georgejipa'); }
 
 Q: http://georgejipa.com/plugins/tweet-this-button/
 
+== Screenshots ==
+
+Screenshot: http://georgejipa.com/plugins/tweet-this-button/
+
 == Upgrade Notice ==
 
 No updates!
