@@ -13,9 +13,9 @@ By using this plugin you can display on your blog, "Tweet this! Button", the off
 
 == Installation ==
 
-1. Upload the plugin into "/wp-content/plugins/" directory
-2. Active it from "Plugins" dashboard
-3. Insert the following function into your blog template (you should change georgejipa with your own twitter account)
+1. Upload the plugin into "/wp-content/plugins/" directory;
+2. Active it from "Plugins" dashboard;
+3. Insert the following function into your blog template (you should change georgejipa with your own twitter account);
 
 3.1. For horizontal button:
  
