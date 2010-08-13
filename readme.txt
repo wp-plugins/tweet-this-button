@@ -17,7 +17,12 @@ By using this plugin you can display on your blog, "Tweet this! Button", the off
 2. Active it from "Plugins" dashboard
 3. Insert the following function into your blog template (you should change georgejipa with your own twitter account)
 
+3.1. For horizontal button: 
 if(function_exists("tweet_button")) { echo tweet_button('georgejipa'); }
+3.2. For vertical button:
+if(function_exists("tweet_button")) { echo tweet_button('georgejipa', 'vertical'); }
+3.3. For simple button (without count)
+if(function_exists("tweet_button")) { echo tweet_button('georgejipa', 'none'); } 
 
 == Frequently Asked Questions ==
 
