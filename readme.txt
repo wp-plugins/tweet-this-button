@@ -35,7 +35,7 @@ Q: http://georgejipa.com/plugins/tweet-this-button/
 
 == Screenshots ==
 
-Screenshots: http://georgejipa.com/plugins/tweet-this-button/
+1. screenshot-1.jpg
 
 == Upgrade Notice ==
 
