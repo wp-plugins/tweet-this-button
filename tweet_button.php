@@ -4,7 +4,7 @@
    *  Version: 1.0
    *  Plugin URI: http://georgejipa.com/plugins/tweet-this-button/
    *  Description: By using this plugin you can display on your blog, "Tweet this! Button", the official button from Twitter
-   *  Author: George Jipa
+   *  Author: GeorgeJipa
    *  Author URI: http://georgejipa.com/        
    **/
    

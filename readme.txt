@@ -1,5 +1,5 @@
 === Tweet This! Button ===
-Contributors: georgejipa
+Contributors: GeorgeJipa
 Donate link: http://www.georgejipa.com
 Tags: twitter, tweet this, twitter button
 Requires at least: 2.5
